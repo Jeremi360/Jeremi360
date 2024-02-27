@@ -22,7 +22,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/BiernackiJeremi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Jeremi360&screen_name=Jeremi360)
 
 ### Languages and Tools:
-[![](https://img.icons8.com/color/48/000000/python--v1.png")](https://www.python.org)
+[![](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org)
 [![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jekyll-a-simple-blog-aware-static-site-generator-for-personal-project-logo-shadow-tal-revivo.png)](https://jekyllrb.com/)
 [![](https://img.icons8.com/color/48/000000/ruby-programming-language.png)](https://www.ruby-lang.org)
 ![](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
