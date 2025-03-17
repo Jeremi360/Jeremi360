@@ -2,7 +2,7 @@
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drakguoteam%26type%3Dpledges&style=for-the-badge)](https://patreon.com/rakguoteam)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drakguoteam%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/rakguoteam)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://jeremi360x.itch.io)
 
 ## I'm a Developer, 3D/2D Artist and Game Designer
 
